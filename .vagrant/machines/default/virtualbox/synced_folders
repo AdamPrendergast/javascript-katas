@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/adamprendergast/Learning/dojo/roman-numerals","disabled":false},"v-csc-1":{"id":"v-csc-1","guestpath":"/tmp/vagrant-chef-3/chef-solo-1/cookbooks","hostpath":"/Users/adamprendergast/.berkshelf/vagrant-berkshelf/shelves/berkshelf20150502-1007-12enchc-default","disabled":false}}}
